@@ -5,6 +5,7 @@ dev-ops aws ec2 project
 this is ec2 project
 
 1 - login ti aws ( Amazon web services)
+
 2 - select lunch insteance
 3 - select t3 micro - as an computing options
 4 - key pair name - wordpress .ppk
