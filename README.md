@@ -13,7 +13,7 @@ this is ec2 project
 7 - createing ubuntu system
 8 - connect to the instance
 9 - instull apachi web server
-
+ 
 sudo apt update && sudo apt upgrade
 when needed press y
 sudo apt install apache2
